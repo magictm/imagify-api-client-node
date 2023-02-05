@@ -37,5 +37,7 @@ For more information on how to use the library and access the full range of feat
 This library is open source and actively maintained. If you would like to contribute to the development of the library, please start by discussing the changes you would like to make in a new issue. This will ensure that your changes are in line with the goals and vision of the project.
 ## 💰 Support
 If you use and enjoy this library, please consider supporting the project by making a donation or sharing it on social media. Your support helps us to continue developing and maintaining this library for the benefit of the community.
+
+[Support the project](https://www.paypal.com/paypalme/merlinArtist)!
 ## 📄 License
 This library is licensed under the MIT license. For more information, please see the LICENSE file.
