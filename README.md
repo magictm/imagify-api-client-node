@@ -1,6 +1,8 @@
 # Imagify API Client for Node.js
 A lightweight and easy-to-use library for accessing the Imagify API from Node.js applications. Written in JavaScript, this library provides a simple and straightforward interface for integrating with the Imagify API and optimizing your images.
 
+Imagify API Docs: https://imagify.io/docs/api/
+
 ## 🔥 Features
 - Simple, intuitive API interface 💻
 - Lightweight and efficient 🚀
