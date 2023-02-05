@@ -40,4 +40,4 @@ If you use and enjoy this library, please consider supporting the project by mak
 
 [Support the project](https://www.paypal.com/paypalme/merlinArtist)!
 ## 📄 License
-This library is licensed under the MIT license. For more information, please see the LICENSE file.
+This library is licensed under the MIT license. For more information, please see the [LICENSE](LICENSE) file.
