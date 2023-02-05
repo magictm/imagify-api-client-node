@@ -3,6 +3,9 @@ A lightweight and easy-to-use library for accessing the Imagify API from Node.js
 
 Imagify API Docs: https://imagify.io/docs/api/
 
+## ⚠ Important Notice: This project is in the early stages of development and is not yet ready for use in real-world settings. 
+While we are working hard to make it the best it can be, there may still be some issues that need to be addressed. For this reason, we strongly advise against using this project in a production environment until it has been fully tested and deemed ready for use. Thank you for your understanding.
+
 ## 🔥 Features
 - Simple, intuitive API interface 💻
 - Lightweight and efficient 🚀
