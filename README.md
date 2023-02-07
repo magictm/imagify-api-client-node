@@ -1,4 +1,17 @@
+<p align="center">
+  <a href="https://pinia.vuejs.org" target="_blank" rel="noopener noreferrer">
+    <img height="60" src="https://user-images.githubusercontent.com/11756007/216806071-06877e52-b089-448f-8d3d-e79d1e99958b.svg" alt="Pinia logo">
+  </a>
+</p>
+<br/>
+<p align="center">
+<a href="https://www.npmjs.com/package/nuxt-seo-kit" target="__blank"><img alt="NPM Downloads" src="https://img.shields.io/github/downloads/magictm/imagify-api-client-node/total?flat&colorA=002438&colorB=28CF8D"></a>
+<a href="https://github.com/harlan-zw/nuxt-seo-kit" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/magictm/imagify-api-client-node?flat&colorA=002438&colorB=28CF8D"></a>
+</p>
+<br/>
+
 # Imagify API Client for Node.js
+
 A lightweight and easy-to-use library for accessing the Imagify API from Node.js applications. Written in JavaScript, this library provides a simple and straightforward interface for integrating with the Imagify API and optimizing your images.
 
 Imagify API Docs: https://imagify.io/docs/api/
