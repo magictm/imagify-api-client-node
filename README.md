@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pinia.vuejs.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://imagify.io/" target="_blank" rel="noopener noreferrer">
     <img height="60" src="https://user-images.githubusercontent.com/11756007/216806071-06877e52-b089-448f-8d3d-e79d1e99958b.svg" alt="Pinia logo">
   </a>
 </p>
