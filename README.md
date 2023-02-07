@@ -5,8 +5,8 @@
 </p>
 <br/>
 <p align="center">
-<a href="https://www.npmjs.com/package/nuxt-seo-kit" target="__blank"><img alt="NPM Downloads" src="https://img.shields.io/github/downloads/magictm/imagify-api-client-node/total?flat&colorA=002438&colorB=28CF8D"></a>
-<a href="https://github.com/harlan-zw/nuxt-seo-kit" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/magictm/imagify-api-client-node?flat&colorA=002438&colorB=28CF8D"></a>
+<a href="https://www.npmjs.com/package/imagify-api-client-node" target="__blank"><img alt="NPM Downloads" src="https://img.shields.io/github/downloads/magictm/imagify-api-client-node/total?flat&colorA=002438&colorB=28CF8D"></a>
+<a href="https://github.com/magictm/imagify-api-client-node" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/magictm/imagify-api-client-node?flat&colorA=002438&colorB=28CF8D"></a>
 </p>
 <br/>
 
